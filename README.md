@@ -14,7 +14,7 @@ Well, the projects I've developed are in GitLab private repositories, so I can't
 
 So, I decided to create this account to share my personal or "random" projects 😁.
 
-This is my website: https://cramydev.netlify.app. I'm still doing some improvements, but you can check the projects I've developed.😉
+This is my website: https://cramydev.netlify.app. I invite you to check some of my projects.😉
 <br /> <br />
 
 ### Let's talk 😉
