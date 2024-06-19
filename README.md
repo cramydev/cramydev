@@ -16,4 +16,4 @@ I'm someone whos learning and practicing constantly. If I have some interest or 
 
 I invite you to check [my portfolio 👨‍💻](https://cramydev.netlify.app) to know more about the projects I've participated and some others I've made for fun or curiosity.
 
-If you want me to work together, [contact me 😁](https://www.linkedin.com/in/crarrivillaga/).
+If you want us to work together, [contact me 😁](https://www.linkedin.com/in/crarrivillaga/).
