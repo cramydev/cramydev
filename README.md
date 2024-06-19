@@ -1,44 +1,19 @@
-### ----- 🇪🇸 ESPAÑOL -----
+## 🇻🇪 ESPAÑOL 
 
-## Que tal, mi nombre es Carlos Rodriguez 😁
+!Que tal! Mi nombre es Carlos Rodríguez, soy desarrollador web fullstack con más de cinco años de experiencia, además de tener experiencia en algunas practicas y conocimientos de UX. 
 
-Soy desarrollador fullstack con experiencia en el área de UX haciendo prototipos y diseños de baja fidelidad🤓.
-<br /> <br />
+Soy una persona que siempre está en constante aprendizaje y práctica. Siempre que tengo interés o curiosidad por saber algún tema en particular, realizo una investigación al respecto para al menos tener ese conocimiento.
 
-### Stack de desarrollo 💻 
-Mi actual stack de desarrollo es VueJS en el frontend, y ExpressJS en el backend.
+Te invito a que veas [mi portafolio 👨‍💻](https://cramydev.netlify.app) para que conozcas más sobre los proyectos en los que he participado y algunos otros que he hecho por diversión, práctica o curiosidad.
 
-No he creado ningún proyecto de UX, además de dos diseños de baja fidelidad, pero he usado Figma para practicar en la creación de prototipos ✌. Quizás use estas habilidades como hobby, al menos por ahora 😅.
-<br /> <br />
+Si quieres que trabajemos juntos, [contáctame 😁](https://www.linkedin.com/in/crarrivillaga/).
 
-### Why I don't have mucho projects in here? 🤔
-Pues, los proyectos que he desarrollado están en repositorios privados y no puedo compartirlos 😅. Pero, decidi crear esta cuenta para compartir algunos proyectos personales o randoms 😁.
+## 🇺🇸 ENGLISH
 
+What's up! My name is Carlos Rodriguez, I'm a fullstack web developer with more than five years of experience, I also have experience in some UX experiences and knowledge.
 
-Este es mi portafolio: https://cramydev.netlify.app. Te invito a que le eches un ojo a algunos de mis proyectos.😉
-<br /> <br />
+I'm someone whos learning and practicing constantly. If I have some interest or curiosity about something in particular, I do some research about it to at least have the knowledge.
 
-### Hablemos 😁
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/crarrivillaga)
+I invite you to check [my portfolio 👨‍💻](https://cramydev.netlify.app) to know more about the projects I've participated and some others I've made for fun or curiosity.
 
-### ----- 🇺🇸 ENGLISH -----
-
-## Hey guys! My name is Carlos Rodriguez 😁
-
-I'm a fullstack web developer with some UX skills like lo-fi prototyping and designs 🤓. 
-<br /> <br />
-
-### Development Stack 💻 
-My current main development stack are VueJS in frontend, and ExpressJS in backend.
-
-I haven't create any project as a UX designer, besides two lo-fi designs, but I've use Figma to practice in creating prototypes ✌. I might use this skills as a hobby, at least for now 😅.
-<br /> <br />
-
-### Why I don't have mucho projects in here? 🤔
-Well, the projects I've developed are in private repositories, so I can't share them 😅. But, I decided to create this account to share my personal or randoms projects 😁.
-
-This is my portfolio: https://cramydev.netlify.app. I invite you to check some of my projects.😉
-<br /> <br />
-
-### Let's talk 😁
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/crarrivillaga)
+If you want me to work together, [contact me 😁](https://www.linkedin.com/in/crarrivillaga/).
